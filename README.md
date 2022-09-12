@@ -1,7 +1,7 @@
 # Lista de Tarefas - Task List
 
-## Aplicação feita durante curso Udemy
+### Uso de Javascript
 
-### Modern JavaScript From The Beginning
+Aplicação feita durante curso Udemy: Modern JavaScript From The Beginning
 
-[DEMO](#)
+[DEMO](https://gisellebarbosa.github.io/tasklist/)
